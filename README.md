@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @quocbao19982009
+- 👋 Hi, I’m Bao Nguyen. Check out <a href='https://baonguyendev.com/'> My Portfolio </a>
 - 👀 I’m interested Frontend Web Development with React
-- 🌱 I’m currently learning Backend Web development with NodeJS, MongoDB, ExpressJS
-- 💞️ I’m looking to collaborate on Study Project or Internship
+- 🌱 My focus skills is ReactJS and its surrounding ecosystem.
+- 💞️ According to my experiences and skills, I am looking for Internship or Junior Frontend Developer Position  
 - 📫 Contact my email for collabaration project: baonguyendev@gmail.com
 
